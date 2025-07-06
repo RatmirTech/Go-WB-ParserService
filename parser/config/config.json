@@ -1,0 +1,4 @@
+{
+  "serve_address": ":8080",
+  "base_path": "/"
+}
